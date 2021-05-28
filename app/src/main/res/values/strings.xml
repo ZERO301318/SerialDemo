@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sp_name">MY_DATA</string>
+    <string name="sp_path">THE PATH</string>
+    <string name="sp_rate">THE RATE</string>
+</resources>
